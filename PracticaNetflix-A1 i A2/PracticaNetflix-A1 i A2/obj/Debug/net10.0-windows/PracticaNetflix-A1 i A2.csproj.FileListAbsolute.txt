@@ -1,0 +1,41 @@
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.exe
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.deps.json
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.runtimeconfig.json
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.pdb
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2_MarkupCompile.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2_MarkupCompile.lref
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.g.resources
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.AssemblyInfoInputs.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.AssemblyInfo.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.csproj.CoreCompileInputs.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\refint\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.pdb
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.genruntimeconfig.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\ref\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES 2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\Practica.9FBFF224.Up2Date
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.exe
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.deps.json
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.runtimeconfig.json
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\bin\Debug\net10.0-windows\PracticaNetflix-A1 i A2.pdb
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2_MarkupCompile.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.g.resources
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.AssemblyInfoInputs.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.AssemblyInfo.cs
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.csproj.CoreCompileInputs.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\refint\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.pdb
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\PracticaNetflix-A1 i A2.genruntimeconfig.cache
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\ref\PracticaNetflix-A1 i A2.dll
+C:\Users\pipe2\Desktop\DAM\ASSIGNATURES2\Acces a dades\A1 i A2\PracticaNetflix-A1 i A2\PracticaNetflix-A1 i A2\obj\Debug\net10.0-windows\Practica.9FBFF224.Up2Date

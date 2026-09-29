@@ -1,0 +1,8 @@
+﻿<Window x:Class="PracticaNetflix_A1_i_A2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Netflix App - A1 i A2" Height="520" Width="760"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="15">
+    </Grid>
+</Window>

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\model\\rawtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\model\\rawtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\dao\\idaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\dao\\idaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\dao\\daocsvimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\dao\\daocsvimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|c:\\users\\pipe2\\desktop\\dam\\assignatures2\\acces a dades\\programes\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2\\practicanetflix-a1 i a2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FF068D6-E546-96F0-175F-53370C5B8E96}|PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj|solutionrelative:practicanetflix-a1 i a2\\practicanetflix-a1 i a2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawTitle.cs",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MODEL\\RawTitle.cs",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\MODEL\\RawTitle.cs",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MODEL\\RawTitle.cs",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\MODEL\\RawTitle.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:34:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOCSVImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\DAOCSVImpl.cs",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\DAO\\DAOCSVImpl.cs",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\DAOCSVImpl.cs",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\DAO\\DAOCSVImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:31:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDAOFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\IDAOFactory.cs",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\DAO\\IDAOFactory.cs",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\IDAOFactory.cs",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\DAO\\IDAOFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:29:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\IDAO.cs",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\DAO\\IDAO.cs",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\DAO\\IDAO.cs",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\DAO\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:29:31.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MainWindow.xaml",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-17T16:24:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:24:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracticaNetflix-A1 i A2.csproj",
+              "DocumentMoniker": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj",
+              "RelativeDocumentMoniker": "PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj",
+              "ToolTip": "C:\\Users\\pipe2\\Desktop\\DAM\\ASSIGNATURES2\\ACCES A DADES\\programes\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj",
+              "RelativeToolTip": "PracticaNetflix-A1 i A2\\PracticaNetflix-A1 i A2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T16:28:34.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
